@@ -8,4 +8,4 @@ def funcionPrueba(a, b) -> int:
 assert funcionPrueba(1,2) == 2, 'Error al sumar'
 assert funcionPrueba(1,2) == 2, 'Error al sumar'
 assert funcionPrueba(1,2) == 2, 'Error al sumar'
-
+assert funcionPrueba(1,2) == 2, 'Error al sumar'
