@@ -1,5 +1,9 @@
 def funcionPrueba(a, b) -> int:
+<<<<<<< HEAD
     print(f'Prueba resultado:\n{a+b}')
+=======
+    print(f'La suma es:\n{a+b}')
+>>>>>>> feature2
     return(a+b)
     # return(a+b)
 
