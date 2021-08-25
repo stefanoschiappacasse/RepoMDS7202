@@ -1,5 +1,5 @@
 def funcionPrueba(a, b) -> int:
-    print(a+b)
+    print(f'La suma es:\n{a+b}')
     return(a+b)
     # return(a+b)
 
