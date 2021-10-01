@@ -1,0 +1,5 @@
+1) El método que tenga el decorador property, siempre tiene que retornar el atributo porque es lo que se le pasa al setter o getter?
+2) El nombre del método que tenga el decorador property se tiene que llamar igual que el atributo que quiera encapsular?
+3) Por qué me aumenta tanto el uso de memoria cuando cargo las imágenes?
+4) Cómo se define que un método es estático dentro del docString?
+5) Cómo se anotan los objetos que retornan en el docstring?
