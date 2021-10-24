@@ -23,3 +23,15 @@ Este repositorio contiene todos los laboratorios realizados en el curso.
 #### Laboratorio 3
 - Entender, aplicar y aprovechar las ventajas que nos ofrece la libreria `pandas` para manejar datos tabulares.
 - Aprender a utilizar la documentación de pandas (y en general, de cualquier librería de python) como también a buscar soluciones en la web.
+
+#### Laboratorio 4
+- Aplicar y aprovechar las ventajas que nos ofrece la libreria pandas.
+- Utilizar plotly para obtener información gráfica del dataset.
+- Aplicar el Análisis Exploratorio de Datos a un caso en particular.
+
+#### Laboratorio 5
+- Aplicar los paradigmas y buenas prácticas de programación vistas hasta este momento.
+- Comprender y aprovechar las ventajas que nos ofrece la liberia numpy con respecto a trabajar en Python 'puro'.
+- Visualizar aplicaciones de filtros de imágenes sin el uso de librerías.
+- Verificar que el uso indiscriminado de for puede afectar en la eficiencia en al procesar datos masivos.
+
