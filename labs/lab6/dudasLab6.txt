@@ -1,0 +1,2 @@
+- Ejemplo resultado esperado LRFMP, por qué tiene un moneraty negativo?
+- Asumo que el periodo de análisis corresponde al periodo de las compras del dataset?

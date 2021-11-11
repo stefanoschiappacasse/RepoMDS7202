@@ -35,3 +35,8 @@ Este repositorio contiene todos los laboratorios realizados en el curso.
 - Visualizar aplicaciones de filtros de imágenes sin el uso de librerías.
 - Verificar que el uso indiscriminado de for puede afectar en la eficiencia en al procesar datos masivos.
 
+#### Laboratorio 6
+- Comprender y aprovechar las ventajas que nos ofrece la librería pandas con respecto a trabajar en Python 'puro'.
+- Crear nuevas características para entrenar un modelo de clustering.
+- Comprender como aplicar pipelines de Scikit-Learn para generar procesos más limpios.
+
