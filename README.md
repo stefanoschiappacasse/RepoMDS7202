@@ -40,3 +40,10 @@ Este repositorio contiene todos los laboratorios realizados en el curso.
 - Crear nuevas características para entrenar un modelo de clustering.
 - Comprender como aplicar pipelines de Scikit-Learn para generar procesos más limpios.
 
+#### Laboratorio 7
+
+- Comprender el funcionamiento de clasificadores/regresores.
+- Generar múltiples modelos predictivos.
+- Comprender las ventajas de crear modelos en pipeline vs hacer las operaciones a mano.
+
+
