@@ -41,9 +41,13 @@ Este repositorio contiene todos los laboratorios realizados en el curso.
 - Comprender como aplicar pipelines de Scikit-Learn para generar procesos más limpios.
 
 #### Laboratorio 7
-
 - Comprender el funcionamiento de clasificadores/regresores.
 - Generar múltiples modelos predictivos.
 - Comprender las ventajas de crear modelos en pipeline vs hacer las operaciones a mano.
 
+#### Laboratorio 8
+- Aplicar las ventajas que nos ofrece crear un pipeline.
+- Obtener caracteristicas desde texto.
+- Visualizar el funcionamiento de clasificadores.
+- Realizar una GridSearch sobre un conjunto de clasificadores.
 
