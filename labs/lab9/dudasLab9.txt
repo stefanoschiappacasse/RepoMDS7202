@@ -1,0 +1,2 @@
+1) Cuando utilizo la función prun, no entiendo lo que me dice.
+2) No entiendo por qué la función vuelve a iterar sobre los 50 que ya pasó.

@@ -51,3 +51,7 @@ Este repositorio contiene todos los laboratorios realizados en el curso.
 - Visualizar el funcionamiento de clasificadores.
 - Realizar una GridSearch sobre un conjunto de clasificadores.
 
+#### Laboratorio 9
+- Obtener datos desde Reddit a partir de la librería praw y visualizar cuales post son más probables que sean puntuados positivamente.
+- Aplicar un atajo estadístico para obtener la mean posterior de datos.
+- Optimizar a través de librerías funciones.
