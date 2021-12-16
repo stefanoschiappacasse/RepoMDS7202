@@ -1,0 +1,7 @@
+- qué es el publisher?
+- qué es achievement?
+- en qué unidades está el average_playtime?
+- qué es el rating?
+-
+
+Se observa una correlación alta entre la variable average_playtime y estimated_sells.
