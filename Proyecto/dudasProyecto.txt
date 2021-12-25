@@ -1,0 +1,15 @@
+- qué es el publisher?
+- qué es achievement? cantidad de logros que tiene un juego
+- en qué unidades está el average_playtime? min
+- qué es el rating? qué tan buen es
+- duda sobre power transformation.
+- Se pueden hacer escalamiento sobre un escalamiento?
+- 
+
+Se observa una correlación alta entre la variable average_playtime y estimated_sells.
+
+
+
+Pruebas:
+- probar cambiando required_age a binaria
+- 

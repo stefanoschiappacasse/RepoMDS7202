@@ -55,3 +55,9 @@ Este repositorio contiene todos los laboratorios realizados en el curso.
 - Obtener datos desde Reddit a partir de la librería praw y visualizar cuales post son más probables que sean puntuados positivamente.
 - Aplicar un atajo estadístico para obtener la mean posterior de datos.
 - Optimizar a través de librerías funciones.
+
+#### Laboratorio 10
+- Persistencia de modelos.
+- APIs Rest.
+- Servidores.
+- Bases de Datos basadas en JSON (formato similar a diccionarios).
